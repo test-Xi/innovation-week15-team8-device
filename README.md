@@ -8,7 +8,7 @@
 | 组员 A | 刘欣雨 | 修改 groupName、projectTitle、projectSlogan | [PR #2](https://github.com/gulangqingcheng/innovation-week15-team8-device/pull/2) |
 | 组员 B | 石文芝 | 补全 members 中的成员姓名与分工                    | [PR #3](https://github.com/gulangqingcheng/innovation-week15-team8-device/pull/3) |
 | 组员 C | 孙晨恩 | 补充 realDeviceChecks 中的真机运行检查项           | [PR #4](https://github.com/gulangqingcheng/innovation-week15-team8-device/pull/4) |
-| 组员 D | 高建洋 | 补充 evidenceRules，并把真机照片加入 README        | 待提交 |
+| 组员 D | 高建洋 | 补充 evidenceRules，并把真机照片加入 README        | [PR #5](https://github.com/gulangqingcheng/innovation-week15-team8-device/pull/5) |
 ## Android 真机运行
 
 - 手机型号：Mi 10
